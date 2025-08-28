@@ -4,7 +4,7 @@ import subprocess
 import shutil
 
 # --- CONFIG ---
-VIDEO_CODE = "3AA7FG8K4W"
+VIDEO_CODE = "YOUR_VIDEO_CODE_HERE"
 WORK_DIR = "temp"
 API_URL = "https://sys.vt3.io/highlights"
 SEGMENT_DURATION = 30  # API limit

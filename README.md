@@ -17,7 +17,7 @@ This tool allows you to download your ride video directly using its **video code
 
 ## 📦 Requirements
 
-- **Python 3.7+**
+- **Python 3**
 - **ffmpeg** (installed and available in your PATH)
 - Python libraries:
 
